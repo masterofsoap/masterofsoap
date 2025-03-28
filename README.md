@@ -25,7 +25,7 @@ As much as I love writing clean, efficient code, I’m just as passionate about 
 
 ---
 
-## 🔗 Let's Connect!  
+## 🔗 My links!  
 📧 **Email:** josiah@jehrler.com  
 💼 **Portfolio:** https://jehrler.com  
 🐦 **Twitter:** [@avsfair](https://twitter.com/avsfair)  
