@@ -1,34 +1,30 @@
-# 👋 Hey there, I'm Josiah Ehrler!  
+# 👋 Hello, I'm Josiah Ehrler  
 
-### Software Developer | UI/UX Enthusiast | Hockey Fan  
+### **Software Developer** | **UI/UX Specialist** | **Tech Enthusiast**  
 
-I'm a passionate **software developer** who loves crafting modern, scalable web applications. With a strong focus on **functionality** and **aesthetics**, I build solutions that are not just powerful but also delightful to use.  
-
-
----
-
-## 🛠️ My Tech Stack  
-🚀 **Languages & Frameworks**  
-- **JavaScript**, **Python**  
-- **LUA**, **Node.js**  
-- **Supabase**, **SQL**  
-
-🎨 **Design & Optimization**  
-- **UI/UX Design**  
-- **Responsive Design**  
-- **Performance Optimization**  
+I design and build **scalable, modern applications** with a focus on **clean code, intuitive interfaces, and seamless user experiences**. Passionate about merging functionality with aesthetics, I strive to create solutions that are both powerful and delightful.  
 
 ---
 
-## 🏒 Fun Fact: I’m a Huge Colorado Avalanche Fan!  
-As much as I love writing clean, efficient code, I’m just as passionate about **hockey** especially when it comes to the **Colorado Avalanche**. Whether it's their **dominance on the ice** or the **precision of their play**, I strive to bring that same level of excellence and performance into my work as a developer.  
+## 🛠 Technical Skills  
+
+**Languages & Frameworks**  
+- **JavaScript** · **Python** · **Lua**  
+- **Node.js** · **Supabase** · **SQL**  
+
+**Design & Optimization**  
+- **UI/UX Design** · **Responsive Development**  
+- **Performance Optimization** · **Web Accessibility**  
 
 ---
 
-## 🔗 My links!  
-📧 **Email:** josiah@jehrler.com  
-💼 **Portfolio:** https://jehrler.com  
+## 🏒 Beyond Code  
+When I'm not developing, you'll find me cheering on the **Colorado Avalanche**—because like great software, hockey thrives on **precision, teamwork, and execution**.  
+
+---
+
+## 📬 Let's Connect  
+📧 **Email:** [josiah@jehrler.com](mailto:josiah@jehrler.com)  
+🌐 **Portfolio:** [jehrler.com](https://jehrler.com)  
 🐦 **Twitter:** [@avsfair](https://twitter.com/avsfair)  
-📂 **GitHub:** [github.com/masterofsoap](https://github.com/masterofsoap)  
-
-
+💻 **GitHub:** [github.com/masterofsoap](https://github.com/masterofsoap)  
