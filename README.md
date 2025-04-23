@@ -29,6 +29,6 @@ As much as I love writing clean, efficient code, I’m just as passionate about 
 📧 **Email:** josiah@jehrler.com  
 💼 **Portfolio:** https://jehrler.com  
 🐦 **Twitter:** [@avsfair](https://twitter.com/avsfair)  
-📂 **GitHub:** [github.com/yourusername](https://github.com/masterofsoap)  
+📂 **GitHub:** [github.com/masterofsoap](https://github.com/masterofsoap)  
 
 
